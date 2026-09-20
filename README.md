@@ -31,3 +31,11 @@ pytest
 ## License
 
 MIT
+
+---
+
+## 🎥 Gource Visualization
+
+De ontwikkelhistorie van dit project in een film:
+
+<video src="https://raw.githubusercontent.com/itsdarklikehell/dnd-utils/master/gource.mp4" controls width="100%"></video>
