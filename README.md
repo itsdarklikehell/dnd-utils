@@ -1,5 +1,11 @@
 # dnd-utils
 
+
+[![CI](https://github.com/itsdarklikehell/dnd-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/dnd-utils/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/itsdarklikehell/dnd-utils)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 **D&D Utility Site** — een Blazor WebAssembly webapp voor D&D 5e gamedata.
 
 Een verzameling tools voor D&D 5e: karakterbeheer, dobbelstenen, initiatief-tracking, HP-berekening en meer — alles in de browser, geen server-side verwerking nodig.
